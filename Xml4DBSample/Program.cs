@@ -1,9 +1,4 @@
-# Xml4DB
-基于XML的轻量级数据库
-
-# 用法示例
-```
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -96,5 +91,3 @@ namespace Xml4DBSample
         }
     }
 }
-
-```

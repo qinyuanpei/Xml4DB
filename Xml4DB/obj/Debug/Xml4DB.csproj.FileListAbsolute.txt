@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Projects\Xml4DB\Xml4DB\bin\Debug\Xml4DB.dll
+C:\Users\Administrator\Documents\Projects\Xml4DB\Xml4DB\bin\Debug\Xml4DB.pdb
+C:\Users\Administrator\Documents\Projects\Xml4DB\Xml4DB\obj\Debug\Xml4DB.dll
+C:\Users\Administrator\Documents\Projects\Xml4DB\Xml4DB\obj\Debug\Xml4DB.pdb
+G:\Xml4DB\bin\Debug\Xml4DB.dll
+G:\Xml4DB\bin\Debug\Xml4DB.pdb
+G:\Xml4DB\obj\Debug\Xml4DB.dll
+G:\Xml4DB\obj\Debug\Xml4DB.pdb
+G:\Xml4DB\obj\Debug\Xml4DB.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\Xml4DB\Xml4DB\bin\Debug\Xml4DB.dll
+D:\项目管理\CSharp\Xml4DB\Xml4DB\bin\Debug\Xml4DB.pdb
+D:\项目管理\CSharp\Xml4DB\Xml4DB\obj\Debug\Xml4DB.dll
+D:\项目管理\CSharp\Xml4DB\Xml4DB\obj\Debug\Xml4DB.pdb

@@ -1,0 +1,16 @@
+G:\Xml4DBSample\bin\Debug\Xml4DBSample.exe.config
+G:\Xml4DBSample\bin\Debug\Xml4DBSample.exe
+G:\Xml4DBSample\bin\Debug\Xml4DBSample.pdb
+G:\Xml4DBSample\bin\Debug\Xml4DB.dll
+G:\Xml4DBSample\bin\Debug\Xml4DB.pdb
+G:\Xml4DBSample\obj\Debug\Xml4DBSample.csprojResolveAssemblyReference.cache
+G:\Xml4DBSample\obj\Debug\Xml4DBSample.exe
+G:\Xml4DBSample\obj\Debug\Xml4DBSample.pdb
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\obj\Debug\Xml4DBSample.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\bin\Debug\Xml4DBSample.exe.config
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\bin\Debug\Xml4DBSample.exe
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\bin\Debug\Xml4DBSample.pdb
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\bin\Debug\Xml4DB.dll
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\bin\Debug\Xml4DB.pdb
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\obj\Debug\Xml4DBSample.exe
+D:\项目管理\CSharp\Xml4DB\Xml4DBSample\obj\Debug\Xml4DBSample.pdb
